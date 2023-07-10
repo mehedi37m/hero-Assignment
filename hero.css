@@ -50,3 +50,30 @@ body {
  padding-top: 40px;
   /* background-image: bottom right; */
 }
+/* this is main part */
+.our{
+    text-align: center;
+    padding-top: 178px;
+    padding-bottom: 48px;
+
+}
+.our-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+
+font-weight: 800;
+
+}
+.our-description{
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    /* width: 598px; */
+    /* justify-content: center; */
+    /* font-weight: 400; */
+    /* line-height: 30px; */
+    padding-top: 24px;
+}
