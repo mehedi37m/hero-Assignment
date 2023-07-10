@@ -70,6 +70,10 @@ body {
   font-family: Lato;
   font-size: 18px;
 }
+/* this is 2nd part */
+.sector-container{
+    display: flex;
+}
 /* this 3rd part */
 .services-container {
   display: flex;
