@@ -47,33 +47,85 @@ body {
 .banner-img {
   width: 635px;
   height: 800px;
- padding-top: 40px;
+  padding-top: 40px;
   /* background-image: bottom right; */
 }
 /* this is main part */
-.our{
-    text-align: center;
-    padding-top: 178px;
-    padding-bottom: 48px;
-
+.our {
+  text-align: center;
+  padding-top: 178px;
+  padding-bottom: 48px;
 }
-.our-title{
-    color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
+.our-title {
+  color: #272727;
+  text-align: center;
 
-font-weight: 800;
-
+  font-size: 40px;
+  padding-bottom: 24px;
+  font-weight: 800;
 }
-.our-description{
+.our-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+}
+/* this 4th part */
+.sale-container {
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  display: flex;
+  justify-content: center;
+}
+.sale-offer {
+  text-align: center;
+  /* width: 50%; */
+}
+.sale-title {
+  color: #272727;
+  font-size: 40px;
+  font-weight: 800;
+  margin-top: 230px;
+}
+.off {
+  color: #e55473;
+}
+.sale-description {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 32px;
+  padding-left: 15px;
+  width: 594px;
+}
+.btn-sign {
+  color: white;
+  border: 0;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  padding: 18px 35px 19px 36px;
+  border-radius: 8px;
+  background: #e55473;
+  margin-bottom: 132px;
+}
+.sale-img {
+  padding-top: 100px;
+  margin-left: 186px;
+}
+.social-web {
+  text-align: center;
+  padding-top: 128px;
+  padding-bottom: 48px;
+}
+.web-title {
+  text-align: center;
+  font-size: 40px;
+  padding-bottom: 24px;
+  font-weight: 800;
+  color: #272727;
+}
+.web-description{
     color: rgba(39, 39, 39, 0.60);
-    text-align: center;
-    font-family: Lato;
-    font-size: 18px;
-    /* width: 598px; */
-    /* justify-content: center; */
-    /* font-weight: 400; */
-    /* line-height: 30px; */
-    padding-top: 24px;
+
 }
