@@ -71,8 +71,8 @@ body {
   font-size: 18px;
 }
 /* this is 2nd part */
-.sector-container{
-    display: flex;
+.sector-container {
+  display: flex;
 }
 /* this 3rd part */
 .services-container {
@@ -81,23 +81,22 @@ body {
   justify-content: space-around;
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
- 
 }
-.services{
-/* padding: 86px 50px 24px 0px; */
-text-align: center;
-padding-top: 86px;
+.services {
+  /* padding: 86px 50px 24px 0px; */
+  text-align: center;
+  padding-top: 86px;
 }
-.par-tag{
-    color: rgba(39, 39, 39, 0.80);
-text-align: center;
-font-family: Lato;
-font-size: 24px;
-font-style: normal;
-font-weight: 600;
-line-height: 35px;
-/* padding: 0 100px; */
-padding-bottom: 30px;
+.par-tag {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+  /* padding: 0 100px; */
+  padding-bottom: 30px;
 }
 /* this 4th part */
 .sale-container {
