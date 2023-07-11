@@ -77,8 +77,6 @@ body {
   gap: 24px;
   padding-top: 24px;
   background-position: bottom center;
-
-  
 }
 .single {
   width: 464px;
@@ -90,7 +88,6 @@ body {
   background-image: url("./Flower Asset/pngwing\ 6.png");
   background-repeat: no-repeat;
   background-position: bottom;
-  
 }
 .single-2 {
   width: 464px;
@@ -112,16 +109,14 @@ body {
 }
 .text-title {
   color: #272727;
-  text-align:center ;
+  text-align: center;
   font-family: Lato;
   font-size: 24px;
   font-style: normal;
   font-weight: 700;
   line-height: 35px;
   text-decoration-line: underline;
-  margin-top:32px ;
-  
-  
+  margin-top: 32px;
 }
 /* this 3rd part */
 .services-container {
@@ -132,7 +127,6 @@ body {
   background: rgba(39, 39, 39, 0.05);
 }
 .services {
-  /* padding: 86px 50px 24px 0px; */
   text-align: center;
   padding-top: 86px;
 }
@@ -144,8 +138,46 @@ body {
   font-style: normal;
   font-weight: 600;
   line-height: 35px;
-  /* padding: 0 100px; */
+
   padding-bottom: 30px;
+}
+/* this is myself part */
+.create {
+   margin-top: 100px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+   display: flex;
+  justify-content: space-around;
+  padding: 200px; 
+}
+.create-one{
+  text-align: center;
+  
+}
+.crate-two{
+  background-image: url("./Flower Asset/pngwing\ 8.png");
+   background-position: center;
+  text-align: center; 
+}
+.new-sell-title{
+  text-align: center;
+  font-size: 120px;
+  color: red;
+}
+.s-pan{
+  color: #1607e9;
+}
+.li-list{
+  font-size: 30px;
+  color: rgb(62, 10, 122);
+  padding: 5px;
+}
+.new-sell{
+ text-align: center;
+ font-size: 40px;
+ background-color: aliceblue;
+ color: #342e8f;
+
 }
 /* this 4th part */
 .sale-container {
