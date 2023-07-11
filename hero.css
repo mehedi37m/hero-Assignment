@@ -87,7 +87,7 @@ body {
   background: rgba(167, 33, 98, 0.15);
   /* padding-left: 100px; */
   position: bottom center;
-  background-image: url('./Flower Asset/pngwing 6.png');
+  background-image: url("./Flower Asset/pngwing 6.png");
   background-repeat: no-repeat;
   background-position: bottom;
   
@@ -97,7 +97,7 @@ body {
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(5, 151, 160, 0.15);
-  background-image: url('./Flower Asset/pngwing 5.png');
+  background-image: url("./Flower Asset/pngwing 5.png");
   background-repeat: no-repeat;
   background-position: bottom;
 }
@@ -106,7 +106,7 @@ body {
   height: 538px;
   border-radius: 300px 300px 0px 0px;
   background: rgba(71, 125, 17, 0.15);
-  background-image: url('./Flower Asset/pngwing 7.png');
+  background-image: url("./Flower Asset/pngwing 7.png");
   background-repeat: no-repeat;
   background-position: bottom;
 }
