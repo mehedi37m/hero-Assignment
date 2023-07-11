@@ -73,6 +73,45 @@ body {
 /* this is 2nd part */
 .sector-container {
   display: flex;
+  justify-content: center;
+  gap: 24px;
+  padding-top: 24px;
+  background-position: bottom center;
+
+  
+}
+.single {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(167, 33, 98, 0.15);
+  /* padding-left: 100px; */
+  position: bottom center;
+  
+}
+.single-2 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(5, 151, 160, 0.15);
+  
+}
+.single-3 {
+  width: 464px;
+  height: 538px;
+  border-radius: 300px 300px 0px 0px;
+  background: rgba(71, 125, 17, 0.15);
+
+}
+.text-title {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 35px;
+  text-decoration-line: underline;
 }
 /* this 3rd part */
 .services-container {
