@@ -87,7 +87,7 @@ body {
   background: rgba(167, 33, 98, 0.15);
   /* padding-left: 100px; */
   position: bottom center;
-  background-image: url("./Flower Asset/pngwing\ 5.png");
+  background-image: url("./Flower Asset/pngwing\ 6.png");
   background-repeat: no-repeat;
   background-position: bottom;
   
@@ -119,6 +119,7 @@ body {
   font-weight: 700;
   line-height: 35px;
   text-decoration-line: underline;
+  margin-top:32px ;
   
   
 }
